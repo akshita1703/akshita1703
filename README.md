@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshita1703
-- 👀 I’m interested in Web development and Web Designing
+- 👀 I’m interested in Web development and Web Design
 - 🌱 I’m currently looking for an Internship opportunity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
